@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from sklearn.ensemble import RandomForestClassifier
+import uvicorn
 
 app = FastAPI()
 
@@ -24,4 +24,4 @@ def predict_sepsis(patientid: str, age: int, plasma_glucose: int, Blood_Pressure
     return {"prediction": prediction}
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    uvicorn.run(app, host="0.0.0.0", port=8000)

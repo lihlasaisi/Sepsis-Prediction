@@ -13,10 +13,10 @@ RUN pip install  -r requirements.txt
 COPY app.py .
 
 #copying the model to the docker dir
-COPY key_comp  key_comp
+COPY key_comp key_comp
 
 #specfying the port that my fastapi is in
 EXPOSE 8000
 
 # Run the FastAPI application
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000"]

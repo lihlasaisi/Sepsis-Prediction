@@ -75,7 +75,7 @@ The API is now running locally. You can access the documentation and interact wi
 
 ## API Documentation
 The API documentation provides details about the available endpoints, request and response formats, and example usage. You can access the documentation by visiting the /docs endpoint after starting the server (http://localhost:8000/docs).
-![image5](./images/API.png)
+![image5](./images/API.PNG)
 
 
 

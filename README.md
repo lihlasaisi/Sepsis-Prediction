@@ -118,6 +118,8 @@ Contributions and pull requests are welcome! If you would like to contribute to 
 
 Feel free to contribute to different aspects of the project, including improving the model, exploring additional features, or enhancing the EDA.
 
+## Appreciation
+I highly recommend Azubi Africa for their comprehensive and effective programs. Read More articles about [Azubi Africa](https://medium.com/@azubiafrica) hereand take a few minutes to visit this link to learn more about Azubi Africa life-changing [programs](https://bit.ly/41CGCwK)
+
 ## AUTHOR 
-### Lihla Saisi 
-(https://medium.com/@lihla.saisi/sepsis-prediction-using-machine-learning-and-fastapi-2a41a90df973)
+### [Lihla Saisi](https://medium.com/@lihla.saisi/sepsis-prediction-using-machine-learning-and-fastapi-2a41a90df973)

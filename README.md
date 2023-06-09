@@ -123,4 +123,4 @@ I highly recommend Azubi Africa for their comprehensive and effective programs. 
 
 ## AUTHOR 
 ### Lihla Saisi
-[![Medium](https://medium.com/@lihla.saisi/sepsis-prediction-using-machine-learning-and-fastapi-2a41a90df973)
+[!Medium](https://medium.com/@lihla.saisi/sepsis-prediction-using-machine-learning-and-fastapi-2a41a90df973)

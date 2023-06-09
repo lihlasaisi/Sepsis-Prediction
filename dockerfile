@@ -13,7 +13,7 @@ RUN pip install  -r requirements.txt
 COPY app.py .
 
 #copying the model to the docker dir
-COPY key_comp key_comp
+COPY key_comp /app/key_comp
 
 #specfying the port that my fastapi is in
 EXPOSE 8000
